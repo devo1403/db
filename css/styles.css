@@ -1,0 +1,112 @@
+body{
+  color: #40514E;
+  font-family: sans-serif;
+  margin: 0;
+  text-align: center;
+}
+h1{
+  line-height: 2;
+  font-family: Sacramento, cursive;
+  font-size: 90px;
+  width: 20%;
+  margin: 50px auto 0 auto;
+  color: #66BFBF
+}
+h2{
+  padding-bottom: 10px;
+  line-height: 1;
+  font-weight: normal;
+  font-family: sans-serif;
+  font-size: 40px;
+  color: #66BFBF;
+
+}
+.top-container{
+  background-color: #D6EFED;
+  padding-top: 50px;
+
+}
+.middle-container{
+
+}
+
+
+
+.cloud1{
+  position: relative;
+  left:300px;
+}
+
+.cloud2{
+  position: absolute;
+  left:350px;
+}
+
+
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2
+
+
+
+}
+.profile{
+  margin: 100px auto 100px auto;
+}
+
+.mic{
+  width: 30%;
+}
+hr{
+  border:dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 20%;
+}
+
+.contact-me{
+  width: 40%;
+  margin: 40px auto 60px;
+  line-height: 2;
+}
+.btn {
+  background: #6334d9;
+  background-image: -webkit-linear-gradient(top, #6334d9, #2980b9);
+  background-image: -moz-linear-gradient(top, #6334d9, #2980b9);
+  background-image: -ms-linear-gradient(top, #6334d9, #2980b9);
+  background-image: -o-linear-gradient(top, #6334d9, #2980b9);
+  background-image: linear-gradient(to bottom, #6334d9, #2980b9);
+  -webkit-border-radius: 22;
+  -moz-border-radius: 22;
+  border-radius: 22px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 29px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+
+}
+a{
+  color:#11999E;
+  margin: 20px 20px;
+  text-decoration: none;
+}
+.copyright{
+  padding: 20px 0 10px 0;
+  color:white;
+}
